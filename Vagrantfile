@@ -1,5 +1,5 @@
 # Base hostname
-cookbook = 'docker'
+cookbook = 'aufs'
 
 # Environment variable information:
 # http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/gs_env_vars_summary.html 

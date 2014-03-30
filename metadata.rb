@@ -6,8 +6,8 @@ description       'Installs/Configures AUFS'
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           '0.1.0'
 recipe            'aufs', 'Installs/Configures AUFS'
-recipe            'docker::module', 'Loads AUFS Linux module'
-recipe            'docker::package', 'Installs AUFS via package'
+recipe            'aufs::module', 'Loads AUFS Linux module'
+recipe            'aufs::package', 'Installs AUFS via package'
 
 supports 'ubuntu', '>= 12.04'
 

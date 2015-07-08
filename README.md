@@ -1,5 +1,7 @@
 # chef-aufs [![Build Status](https://secure.travis-ci.org/bflad/chef-aufs.png?branch=master)](http://travis-ci.org/bflad/chef-aufs)
 
+[![Join the chat at https://gitter.im/jusbrasil/aufs-cookbook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jusbrasil/aufs-cookbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Description
 
 Installs/Configures AUFS.
